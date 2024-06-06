@@ -1,0 +1,4 @@
+name: MyLobby
+version: '${project.version}'
+main: de.couldbeworse.mylobby.MyLobby
+api-version: '1.20'
